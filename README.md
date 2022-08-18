@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution Folder]()
-- Live Site URL: [Live Site]()
+- Solution URL: [Solution Folder](https://www.frontendmentor.io/solutions/fylo-data-storage-QFMOzmkIpH)
+- Live Site URL: [Live Site](https://ziy-eg.github.io/fylo-data-storage/)
 
 ## My process
 
